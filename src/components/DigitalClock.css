@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Protest+Strike&display=swap');
+
+.digital-clock-time {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+    span {
+        padding: 10px;
+        background-color: rgb(241, 241, 241);
+        border-radius: 10px;
+        font-size: 50px;
+        font-family: "Orbitron", sans-serif;
+    }
+}
